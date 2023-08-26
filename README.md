@@ -1,6 +1,8 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonio-carvalho-963b42234) 
+
 <a href = "antoniov.carvalho19@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 # 💫About Me :
 Sou graduando em Ciência da Computação e tenho conhecimento nas linguagens de C, Python e JAVA com Spring Boot.
   
