@@ -9,7 +9,7 @@ Sou graduando em Ciência da Computação e tenho conhecimento nas linguagens de
 </div>
 <div>
 <a href="https://github.com/4ntonio19">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?4ntonio19&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/4ntonio19&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?4ntonio19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ![Snake animation](https://github.com/4ntonio19/blob/output/github-contribution-grid-snake.svg)
