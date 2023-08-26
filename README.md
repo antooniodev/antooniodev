@@ -1,7 +1,7 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonio-carvalho-963b42234)  <a href = "antoniov.carvalho19@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 # 💫About Me :
-Sou graduando em Ciência da Computação e tenho conhecimento nas linguagens de C, Python e JAVA com Spring Boot.
+Sou graduando em Ciência da Computação e tenho conhecimento nas linguagens de Python e JAVA com Spring Boot.
   
 # 💻Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /><br/>
