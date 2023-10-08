@@ -1,5 +1,5 @@
 # 💫About Me :
-Desenvolvedor front-end | Angular
+Desenvolvedor front-end | Angular<br>
 Proficiência em Java com SpringBoot e Python
 Estou sempre aprendendo algo.
 
