@@ -14,8 +14,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4ntonio19&show_icons=true&theme=dark&locale=en" alt="4ntonio19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4ntonio19&theme=dark" alt="4ntonio19" /></p>
-
 ## Projetos
 
 ### Landing Page da EMA Atacadista
