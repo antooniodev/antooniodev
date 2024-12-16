@@ -1,6 +1,6 @@
 <h3 align="center">Front-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antooniodev&label=Profile%20views&color=0e75b6&style=flat" alt="4ntonio19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antooniodev&label=Profile%20views&color=0e75b6&style=flat" alt="antooniodev" /> </p>
 
 - 📫 Como me contatar **antoniov.carvalho19@gmail.com**
 
